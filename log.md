@@ -4,6 +4,6 @@
 
 **Today's Progress**: I finally understood the logic behind the short program from the While Loop 3 (Lesson 13 - Udacity course).
 
-**Thoughts:** It took me a while to understand how this program works, but finally it clicked. The Python tutor and its visualization tool helped a lot. Probably would be a good idea to give a look to my notes about the program tomorrow morning.
+**Thoughts:** It took me a while to understand how this program works, but finally it clicked. The Python tutor and its visualization tool helped a lot. Probably would be a good idea to give a look to my notes about the program tomorrow morning. I also tried the alternative solution provided by another participant in the forum, and understood it as well.
 
 **Link to work:** [Lesson 13 - While Loop 3](https://goo.gl/EryJKy)
