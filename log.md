@@ -14,4 +14,12 @@
 
 **Thoughts:** I tried for a while to make sense of the quiz and solve it by myself, with no success. I check some forum's posts and read the solution, but still couldn't understand it, probably because it was late and I was tired. I coded for almost one hour. Earlier during the day I also started to listening the CodeNewbie podcast for the first time.
 
-**Link to work:** [Lesson 14 - While Loop 3](https://goo.gl/UhYRfj)
+**Link to work:** [Lesson 13 - While Loop 3](https://goo.gl/UhYRfj)
+
+### Day 2: December 30, 2017
+
+**Today's Progress**: Understood the While Loop 4 quiz and three more exercises (Lesson 13 - Udacity course).
+
+**Thoughts:** I spend today quite a few hours (~ 3 or even more) trying to grasp the While Loop 4 quiz. Finally, I did it and also advanced through three more exercises. Tomorrow I plan to continue and watch the video corresponding to "12. Mad Libs: Take Two". 
+
+**Link to work:** [Lesson 13 - Strings to Lists](https://goo.gl/74ijgT)
