@@ -23,3 +23,11 @@
 **Thoughts:** I spend today quite a few hours (~ 3 or even more) trying to grasp the While Loop 4 quiz. Finally, I did it and also advanced through three more exercises. Tomorrow I plan to continue and watch the video corresponding to "12. Mad Libs: Take Two". 
 
 **Link to work:** [Lesson 13 - Strings to Lists](https://goo.gl/74ijgT)
+
+### Day 3: December 31, 2017
+
+**Today's Progress**: Completed an additional quiz (Lesson 13 - Udacity course).
+
+**Thoughts:** Today I studied around 40 minutes, and completed the "Word in Position" quiz. I also heard the CodeNewbie podcast, to try to compensate the 20 minutes I could no study.
+
+**Link to work:** [Lesson 13 - Putting it all together](https://goo.gl/i74Vqf)
