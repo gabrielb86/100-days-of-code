@@ -28,6 +28,6 @@
 
 **Today's Progress**: Completed an additional quiz (Lesson 13 - Udacity course).
 
-**Thoughts:** Today I studied around 40 minutes, and completed the "Word in Position" quiz. I also heard the CodeNewbie podcast, to try to compensate the 20 minutes I could no study.
+**Thoughts:** Today I studied around 40 minutes, and completed the "Word in Position" quiz. I also heard the CodeNewbie podcast, to try to compensate the 20 minutes I could not study.
 
 **Link to work:** [Lesson 13 - Putting it all together](https://goo.gl/i74Vqf)
