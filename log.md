@@ -31,3 +31,11 @@
 **Thoughts:** Today I studied around 40 minutes, and completed the "Word in Position" quiz. I also heard the CodeNewbie podcast, to try to compensate the 20 minutes I could not study.
 
 **Link to work:** [Lesson 13 - Putting it all together](https://goo.gl/i74Vqf)
+
+### Day 4: January 01, 2018
+
+**Today's Progress**: Made half of the HTML version of the videogames venture's website.
+
+**Thoughts:** ...
+
+**Link to work:** [Lesson 13 - Putting it all together](https://goo.gl/i74Vqf)
