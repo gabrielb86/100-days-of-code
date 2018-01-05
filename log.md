@@ -36,6 +36,32 @@
 
 **Today's Progress**: Made half of the HTML version of the videogames venture's website.
 
+**Thoughts:** I attempted to advance with the Intro to Programming's course and felt a bit frustrated and clueless. I decided to take a break from Python and use the next few days to practice and learn Frontend coding. Michael also asked me to fix some sG's bugs.
+
+**Link to work:** None
+
+### Day 5: January 02, 2018
+
+**Today's Progress**: Spent the time fixing sG's bugs.
+
+**Thoughts:** I found refreshing taking a break from Python to do some Frontend things again. I also heard the CodeNewbie podcast.
+
+**Link to work:** None
+
+### Day 6: January 03, 2018
+
+**Today's Progress**: Spent the time fixing sG's bugs and resumed work on my personal website.
+
+**Thoughts:** Besides what I already mentioned, I read some interesting articles on Smashing Magazine.
+
+**Link to work:** None
+
+
+### Day 7: January 04, 2018
+
+**Today's Progress**: Resumed Intro to Programming's course
+
 **Thoughts:** ...
 
-**Link to work:** [Lesson 13 - Putting it all together](https://goo.gl/i74Vqf)
+**Link to work:** None
+
