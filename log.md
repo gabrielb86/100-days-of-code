@@ -61,7 +61,23 @@
 
 **Today's Progress**: Resumed Intro to Programming's course
 
-**Thoughts:** ...
+**Thoughts:** Not too much progress, though.
+
+**Link to work:** None
+
+### Day 8: January 05, 2018
+
+**Today's Progress**: Tried to tackle the "Code your own quiz" project without much success.
+
+**Thoughts:** I read the advice from Antonella, and will try to follow: it's better to separate a big problem into smaller chunks, and try to approach those chunks one by one.
+
+**Link to work:** None
+
+### Day 9: January 06, 2018
+
+**Today's Progress**: Created the "level_select" function for the Code your own quiz project.
+
+**Thoughts:** Today I felt that I was able to understand the problem better, and do some real progress. I feel that I'm on the right way.
 
 **Link to work:** None
 
