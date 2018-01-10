@@ -81,3 +81,10 @@
 
 **Link to work:** None
 
+### Day 10 - 14: January 07 - 10, 2018
+
+**Last days' Progress**: Advanced on the fill in the blanks quiz - Understood the difference between multiple if statements and elif (10.01.18).
+**Thoughts:** These last days I've been working on the fill in the blanks quiz. I think I have a good enough approach to solve the problem, but I'm confused, because the program is not doing what I expect: it should stop after the third wrong guess instead of going back to the first question. I already asked for help on Stack Overflow and Reddit, and got a bit discouraged and angry because I think the one who answered was not helpful at all and a bit of a jerk. On a happier note, I already understand the difference between multiple "if" statemens and "elif" statements: if you use multiple "if" statements, all of them would be checked. That's not the case with the "elif" statements, which should be used in case of mutually exclusive conditions. Enough coding for today ;)
+
+**Link to work:** None
+
