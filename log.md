@@ -88,3 +88,14 @@
 
 **Link to work:** None
 
+### Day 15: January 11, 2018
+
+**Today's Progress**: Got input from Reddit and Antonella about the fill-in-the-blanks quiz. Decided to start blogging.
+**Thoughts:** A couple of people were helpful and gave me advice about how to solve my issue with the fill-in-the-blanks quiz returning to the first question after the second question was answered wrong, but I didn't took the time to check into the code. Instead, I tried to do some progress on my personal website and learn a bit more about CSS Grid. While doing that, I thought that it's going to be a good idea to start blogging as a way of solidifying my knowledge.
+
+### Day 16: January 12, 2018
+
+**Today's Progress**: 
+**Thoughts:** 
+
+**Link to work:** None
