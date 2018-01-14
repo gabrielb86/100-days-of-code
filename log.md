@@ -111,3 +111,10 @@
 
 **Thoughts**: Doing the refactoring was easier than I thought. I also deleted the recursive call that the Reddit user suggested me to remove: it is not needed because of the way how while loops work (I suppose I'll understand this more clearly in the future).
 **Link to work**: None
+
+### Day 18: January 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+**Link to work**: 
