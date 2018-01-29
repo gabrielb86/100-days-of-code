@@ -112,9 +112,9 @@
 **Thoughts**: Doing the refactoring was easier than I thought. I also deleted the recursive call that the Reddit user suggested me to remove: it is not needed because of the way how while loops work (I suppose I'll understand this more clearly in the future).
 **Link to work**: None
 
-### Day 18: January 14, 2018
+### Day 18: January 29, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Sent the "Code your quiz" project
 
-**Thoughts**: 
-**Link to work**: 
+**Thoughts**: Took a few days off because of sickness. Finally sent the "Code your quiz" project and kept advancing with Udacity's lessons.
+**Link to work**: None
