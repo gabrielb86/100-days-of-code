@@ -110,11 +110,29 @@
 **Today's Progress**: Started refactoring the fill-in-the-blanks quiz and reduced three (repeated) functions to one.
 
 **Thoughts**: Doing the refactoring was easier than I thought. I also deleted the recursive call that the Reddit user suggested me to remove: it is not needed because of the way how while loops work (I suppose I'll understand this more clearly in the future).
+
 **Link to work**: None
 
-### Day 18: January 29, 2018
+### Day 18: January 28, 2018
 
 **Today's Progress**: Sent the "Code your quiz" project
 
 **Thoughts**: Took a few days off because of sickness. Finally sent the "Code your quiz" project and kept advancing with Udacity's lessons.
+
 **Link to work**: None
+
+### Day 19: January 29, 2018
+
+**Today's Progress**: Started implementing the corrections for the "Code your quiz" project
+
+**Thoughts**: Received good commentaries and corrections to improve the "Code your quiz" project. I'm trying to learn from these corrections.
+
+**Link to work**: None
+
+### Day 20: January 30, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
