@@ -131,8 +131,14 @@
 
 ### Day 20: January 30, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Still working on Code your quiz project
 
-**Thoughts**: 
+**Thoughts**: - 
+**Link to work**: None
 
-**Link to work**: 
+### Day 21: February 04, 2018
+
+**Today's Progress**: Made the program to work according to the suggestions made by the reviewer.
+**Thoughts**: Found a way to make the program to work. I send it again for revision and will wait for the answer / new suggestions. Compared to the previous version, it is way shorter and looks pretty good I'd say.
+**Link to work**: None
+
