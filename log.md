@@ -134,6 +134,7 @@
 **Today's Progress**: Still working on Code your quiz project
 
 **Thoughts**: - 
+
 **Link to work**: None
 
 ### Day 21: February 04, 2018
@@ -142,3 +143,8 @@
 **Thoughts**: Found a way to make the program to work. I send it again for revision and will wait for the answer / new suggestions. Compared to the previous version, it is way shorter and looks pretty good I'd say.
 **Link to work**: None
 
+### Day 22: February 05, 2018
+
+**Today's Progress**: Implemented the two corrections made by the Udacity reviewer, learn a bit about magic numbers
+**Thoughts**: The changes were easier to implement than what I initially thought. I'm finally grasping the magic number thing, but still asked a question to the reviewer about it.
+**Link to work**: None
