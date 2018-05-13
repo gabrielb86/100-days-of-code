@@ -12,3 +12,6 @@ WordPress' stuff (sG.com)
 
 ### R1D3
 Followed Chapter 2 from "The Flask Mega-Tutorial" (Conditional statements, Templates)
+
+### R1D4
+Finished Chapter 2 from "The Flask Mega-Tutorial" (Conditional statements, Templates)
