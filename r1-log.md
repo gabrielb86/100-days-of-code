@@ -15,3 +15,6 @@ Followed Chapter 2 from "The Flask Mega-Tutorial" (Conditional statements, Templ
 
 ### R1D4
 Finished Chapter 2 from "The Flask Mega-Tutorial" (Conditional statements, Templates)
+
+### R1D5
+Started Chapter 3 from "The Flask Mega-Tutorial" (Webforms): I hit a roadblock.
