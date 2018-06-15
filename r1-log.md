@@ -11,4 +11,5 @@ Worked a bit on the Flask app.
 ### R1D2 [14.06.18]
 Watched "How the Internet Works for Developers - Pt 2 - Servers & Scaling"
 Planned my learning path through a Trello board
+Started Treehouse's Flask Basics course
 
