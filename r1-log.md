@@ -13,3 +13,5 @@ Watched "How the Internet Works for Developers - Pt 2 - Servers & Scaling"
 Planned my learning path through a Trello board
 Started Treehouse's Flask Basics course
 
+### R1D3 [15.06.18]
+Started "Computer Networking tutorial" from TheNewBoston
