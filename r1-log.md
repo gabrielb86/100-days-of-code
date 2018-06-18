@@ -16,3 +16,7 @@ Started Treehouse's Flask Basics course
 ### R1D3 [15.06.18]
 Started "Computer Networking tutorial" from TheNewBoston /
 Continued watching Treehouse's Flask Basics course
+
+### R1D4 [16.06.18]
+Kept learning about Computer Networking from TheNewBoston  / 
+Completed a couple of exercises from Learn Python 3 The Hard Way
