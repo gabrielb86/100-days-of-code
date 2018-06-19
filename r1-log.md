@@ -23,3 +23,7 @@ Completed a couple of exercises from Learn Python 3 The Hard Way
 
 ### R1D5 [17.06.18]
 Learned about Network topologies (TheNewBoston's Computer networking tutorial)
+
+### R1D6 [18.06.18]
+Learned about OSI Model, Modems, Routers & Switches (TheNewBoston's Computer networking tutorial) /
+Completed Ex19 from LP3THW
