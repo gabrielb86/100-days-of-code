@@ -27,3 +27,7 @@ Learned about Network topologies (TheNewBoston's Computer networking tutorial)
 ### R1D6 [18.06.18]
 Learned about OSI Model, Modems, Routers & Switches (TheNewBoston's Computer networking tutorial) /
 Completed Ex19 from LP3THW
+
+### R1D7 [19.06.18]
+More from TheNewBoston's Computer networking tutorial /
+Read "Bits, Bytes, Building With Binary" (Base.CS' article)
