@@ -32,6 +32,9 @@ Completed Ex19 from LP3THW
 More from TheNewBoston's Computer networking tutorial /
 Read "Bits, Bytes, Building With Binary" (Base.CS' article)
 
-### R1D8-10, [20-22.06.18]
+### R1D8-10 [20-22.06.18]
 First two days a bit of Python with Learn Python 3 The Hard way but not very productive overall. /
 On the last day, decided to get back to FCC and learned about CSS Variables.
+
+### R1D11-12[23-24.06.18]
+Started The Web Developer Bootcamp on Udemy. Advanced till Intro to HTML
