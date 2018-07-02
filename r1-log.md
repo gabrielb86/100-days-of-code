@@ -38,3 +38,7 @@ On the last day, decided to get back to FCC and learned about CSS Variables.
 
 ### R1D11-12[23-24.06.18]
 Started The Web Developer Bootcamp on Udemy. Advanced till Intro to HTML
+
+### R1D13-19[25.06-01.07.18]
+Advanced through CSS's curriculum (Applied Visual Desgin) /
+Completed the first 5 chapters from "The Web Developer Bootcamp"
