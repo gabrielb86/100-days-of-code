@@ -9,3 +9,6 @@ Restarted Colt Steele's The Web Developer Bootcamp, refreshed and learned about 
 
 ### R1D2 [23.03.19]
 More about HTML forms, and refreshed some things about CSS's specificity.
+
+### R1D3 [24.03.19]
+Learned a bit about em, rem and other relative units, did the Applied Accesibility challenges on FCC.
